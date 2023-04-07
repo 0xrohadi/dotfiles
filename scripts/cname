@@ -1,0 +1,1 @@
+cat $1 | while read domains;do dig $domains;done | grep CNAME --color=always

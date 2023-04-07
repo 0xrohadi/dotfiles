@@ -1,2 +1,2 @@
 # dotfiles
-.vimrc etc
+Neovim, .vimrc, etc
